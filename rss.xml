@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matthew Vella]]></title>
+        <description><![CDATA[Matthew Vella]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 20:32:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Muscat vows to build new middle class, will not raise minimum wage]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c9cfdc-7966-44d2-9c52-c55b21065998.jpg">]]></description>
+            <link>undefinedmuscat-vows-to-build-new-middle-class-will-not-raise-minimu/index.html</link>
+            <guid isPermaLink="false">34a390f1-dde4-4914-9481-116a12509beb</guid>
+            <pubDate>Tue, 19 Jul 2016 20:31:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
