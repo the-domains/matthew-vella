@@ -1,7 +1,7 @@
 name: Matthew Vella
 favicon: null
-layout_spectrum: 0.9315585698932409
-typography_spectrum: 0.9519794315565377
+layout_spectrum: 0.48808
+typography_spectrum: 0.31194
 title: Matthew Vella
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.19121835916303098
-  lightness: 0.7400898633059114
-  saturation: 0.7272247201763093
-  rhythmicContrast: 0.9554686893243343
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
