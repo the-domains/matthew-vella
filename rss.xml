@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Matthew Vella]]></title>
         <description><![CDATA[Matthew Vella]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthew-vella/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:32:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 20:41:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthew-vella/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prime Minister on Dissett defends ‘Third Way’ credentials, will not raise minimum wage, insists he will convince people on widening access to embryo freezing]]></title>
+            <description><![CDATA[<p>‘Labour’s a broad church seeking a popular balance’ – Muscat</p>]]></description>
+            <link>https://thegrid.ai/matthew-vella/prime-minister-on-dissett-defends-third-way-credentials-w/index.html</link>
+            <guid isPermaLink="false">11c02c25-7144-4ca7-a8c2-389211d40616</guid>
+            <pubDate>Tue, 19 Jul 2016 20:41:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Muscat vows to build new middle class, will not raise minimum wage]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c9cfdc-7966-44d2-9c52-c55b21065998.jpg">]]></description>
-            <link>undefinedmuscat-vows-to-build-new-middle-class-will-not-raise-minimu/index.html</link>
+            <link>https://thegrid.ai/matthew-vella/muscat-vows-to-build-new-middle-class-will-not-raise-minimu/index.html</link>
             <guid isPermaLink="false">34a390f1-dde4-4914-9481-116a12509beb</guid>
             <pubDate>Tue, 19 Jul 2016 20:31:41 GMT</pubDate>
         </item>
